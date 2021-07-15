@@ -19,7 +19,7 @@
 ![VScode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=VisualStudio&logoColor=42aaff)
 
 ## Моя стастистика
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kris-alexwa&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kris-alexwa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kris-alexwa&show_icons=true&bg_color=0D1117&text_color=C4CED9&title_color=3F89EE)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kris-alexwa&layout=compact&bg_color=0D1117&text_color=C4CED9&title_color=C4CED9)](https://github.com/anuraghazra/github-readme-stats)
 
 
