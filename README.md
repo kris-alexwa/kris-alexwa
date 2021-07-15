@@ -18,3 +18,8 @@
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 ![VScode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=VisualStudio&logoColor=42aaff)
 
+## Моя стастистика
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kris-alexwa&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kris-alexwa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
