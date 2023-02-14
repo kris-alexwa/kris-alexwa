@@ -12,14 +12,10 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=Javascript)
 ![React](https://img.shields.io/badge/-React.js-090909?style=for-the-badge&logo=React)
+![Vue.js](https://img.shields.io/badge/-React.js-090909?style=for-the-badge&logo=Vue)
 ![Node](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 ![VScode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=VisualStudio&logoColor=42aaff)
-
-## Моя стастистика
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kris-alexwa&show_icons=true&hide=contribs,prs&bg_color=0D1117&text_color=C4CED9&title_color=3F89EE)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kris-alexwa&layout=compact&bg_color=0D1117&text_color=C4CED9&title_color=C4CED9)](https://github.com/anuraghazra/github-readme-stats)
-
 
